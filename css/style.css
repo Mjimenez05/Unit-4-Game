@@ -1,5 +1,5 @@
 body {
-    background-image: url("https://cdn.inprnt.com/thumbs/89/40/8940e3560ffd04f03c0ca847738a9b56.jpg?response-cache-control=max-age=2628000")
+    background-color: slategray;
 }
 
 div {
@@ -33,9 +33,6 @@ ul {
     text-indent: 20px;
 }
 
-
-/* Specfic Elements*/
-
 div.header,
 div.gems {
     background-color: #e0e0eb;
@@ -45,9 +42,6 @@ div.header,
 div.instructions {
     width: 50%;
 }
-
-
-/* Classes */
 
 .numberToMatch,
 .winsAndLosses {
@@ -69,9 +63,6 @@ div.instructions {
     height: 60px;
     margin: 10px;
 }
-
-
-/* IDs */
 
 #blue {
     color: #3092c7;
